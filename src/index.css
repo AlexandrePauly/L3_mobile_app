@@ -1,0 +1,38 @@
+.item {
+  border: 1px solid #000000;
+  padding: 20px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.box {
+  flex-grow: 1;
+  max-width: 800px;
+  margin: auto;
+  padding: 15px;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+.card_container {
+  margin: 4vh;
+  display: flex;
+  justify-content: center;;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: 1vh;
+  transition: all 0.3s !important;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1vh;
+}
