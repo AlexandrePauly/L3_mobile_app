@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/L3_mobile_app/static/css/main.83113731.css",
+    "main.js": "/L3_mobile_app/static/js/main.5712a644.js",
+    "static/media/image-1.jpg": "/L3_mobile_app/static/media/image-1.fa5213457a3785506857.jpg",
+    "static/media/image-3.jpg": "/L3_mobile_app/static/media/image-3.1276ae8b140ca7505434.jpg",
+    "static/media/image-2.jpg": "/L3_mobile_app/static/media/image-2.7742921cec39bbf2a77c.jpg",
+    "index.html": "/L3_mobile_app/index.html",
+    "main.83113731.css.map": "/L3_mobile_app/static/css/main.83113731.css.map",
+    "main.5712a644.js.map": "/L3_mobile_app/static/js/main.5712a644.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83113731.css",
+    "static/js/main.5712a644.js"
+  ]
+}
